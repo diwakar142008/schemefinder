@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "name": "Student Scholarship Scheme",
+    "category": "student",
+    "social_category": "General",
+    "gender": "any",
+    "max_income": 200000,
+    "benefit": "Financial assistance for students",
+    "documents": [
+      "Aadhaar Card",
+      "Income Certificate",
+      "Bonafide Certificate",
+      "Bank Passbook",
+      "passport size 3"
+    ],
+    "link": "https://scholarships.gov.in",
+    "last_date":"31 March 2026"
+  },
+  {
+    "id": 2,
+    "name": "Women Empowerment Scheme",
+    "category": "unemployed",
+    "social_category": "OBC",
+    "gender": "female",
+    "max_income": 300000,
+    "benefit": "Skill training and financial support for women",
+    "documents": [
+      "Aadhaar Card",
+      "Income Certificate",
+      "Caste Certificate",
+      "Proof of Unemployment",
+      "passport size 4"
+    ],
+    "link": "https://www.india.gov.in",
+    "last_date":"30 June 2026"
+  },
+  {
+    "id": 3,
+    "name": "Farmer Support Scheme",
+    "category": "farmer",
+    "social_category": "SC",
+    "gender": "any",
+    "max_income": 250000,
+    "benefit": "Subsidy and financial help for farmers",
+    "documents": [
+      "Aadhaar Card",
+      "Income Certificate",
+      "Caste Certificate",
+      "Land Ownership Proof",
+      "passport size 1"
+    ],
+    "link": "https://pmkisan.gov.in",
+    "last_date":"31 December 2026"
+  },
+  {
+    "id": 4,
+    "name": "Senior Citizen Health Scheme",
+    "category": "citizen",
+    "social_category": "General",
+    "gender": "any",
+    "max_income": 300000,
+    "benefit": "Monthly pension and free health checkups",
+    "documents": [
+      "Aadhaar Card",
+      "Income Certificate",
+      "Age Proof",
+      "family card"
+    ],
+    "link": "https://www.india.gov.in",
+    "last_date":"31 December 2026"
+  }
+]
