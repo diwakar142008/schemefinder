@@ -73,4 +73,5 @@ def scheme_details(scheme_id):
 # Run app
 # -----------------------------
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(host="0.0.0.0",port=5000)
+
